@@ -1,0 +1,5 @@
+Starting Value : 0
+Beginning Scrape.
+[0] : Scraped - Funding that helps your company grow into global markets
+[0] : Extracted Information - Funding that helps your company grow into global markets
+[1] : Scraped - Supercharge Your Core Business with Mitacs Acceleration Program

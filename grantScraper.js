@@ -1,9 +1,9 @@
 import { By, Builder } from "selenium-webdriver";
-import { model, messages } from "./prompt.js";
 import "chromedriver";
 import fs from "fs";
-import runPromptOnData from "./index.js";
 import openaiTokenCounter from "openai-gpt-token-counter";
+import { model, messages } from "./prompt.js";
+import runPromptOnData, {mainUrl as url} from "./index.js";
 
 class Logger {
 	constructor(file) {
@@ -43,7 +43,6 @@ const scrape = async () => {
 	await logger.log(`Starting Value : ${startingValue}`);
 
 	let driver = await new Builder().forBrowser("chrome").build();
-	const url = "https://innovation.ised-isde.canada.ca/s/group-groupe?language=en_CA&token=a0BOG000001cip32AA";
 
 	await driver.get(url);
 
