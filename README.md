@@ -4,7 +4,7 @@ Scrapes BBF (Business Benefits Finder) for all grants and outputs them in valid 
 ## Getting Started
 
 Clone the repository. Run `npm install`.
-Go to [text](https://innovation.ised-isde.canada.ca/s/group-groupe?language=en_CA&token=a0BOG000001cip32AA)
+Go to [Special Business Benefits Finder List](https://innovation.ised-isde.canada.ca/s/group-groupe?language=en_CA&token=a0BOG000001cip32AA)
 
 This the page that the scraper will scrape from. Configure options on the page based on your preferences. For example, you can allow for tax credits, filter grants to only one province, and filter grants by industry. Changing these options will provide a new link. To use this new link in the scraper, update the `mainUrl` in `./index.js` to this new link.
 
@@ -40,7 +40,7 @@ One way to convert it to a CSV is to use MS Office Excel's Power Query feature.
 In a Blank Workbook, create a Power Query, select the JSON option, and then select the file produced from Step 2. This will put all of your JSON into Excel. By clicking the dropdown on the table created, we can convert the table into a CSV.
 
 Alternatively, there are other steps for importing a JSON into Airtable.
-See here: [text](https://community.airtable.com/t5/other-questions/getting-started-with-airtable-importing-json-data-structure/td-p/58619)
+See here: [Airtable Forum](https://community.airtable.com/t5/other-questions/getting-started-with-airtable-importing-json-data-structure/td-p/58619)
 
 
 
