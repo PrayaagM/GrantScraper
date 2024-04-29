@@ -1,0 +1,19 @@
+{
+  "name": "openai-api-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^124.0.1",
+    "openai": "^4.24.6",
+    "openai-gpt-token-counter": "^1.1.0",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
