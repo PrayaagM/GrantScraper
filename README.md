@@ -15,7 +15,7 @@ The current link allows for all open grants in Canada (no tax-credits or loans).
 Once the link is set, we will scrape data from the BBF and parse it. This will take two steps.
 
 ##### Step 1) Scraping.
-To beign scraping, run command `node ./grantScraper.js`. This will begin scraping grants one-by-one on the link specified above. While it scrapes, it will produce logs in realitime. In your project directory, the scraper will produce a file with title such as `logs-1714354072489.txt`. This file has information about which grant it is currently scraping, how many grants it has scraped so far, any grant it has skipped thus far, and any errors the scraper might run into.
+To beign scraping, run command `node ./grantScraper.js`. A chrome page will open and will be still for ~10 seconds. Then, it will begin scraping grants one-by-one on the link specified above. While it scrapes, it will produce logs in realitime. In your project directory, the scraper will produce a file with title such as `logs-1714354072489.txt`. This file has information about which grant it is currently scraping, how many grants it has scraped so far, any grant it has skipped thus far, and any errors the scraper might run into.
 
 The scraper will also produce a file with a name such as `ExtractedGrants-logs-1714354072489.json`. This file contains the scraped and AI-Generated grant information.
 
@@ -41,3 +41,17 @@ In a Blank Workbook, create a Power Query, select the JSON option, and then sele
 
 Alternatively, there are other steps for importing a JSON into Airtable.
 See here: [text](https://community.airtable.com/t5/other-questions/getting-started-with-airtable-importing-json-data-structure/td-p/58619)
+
+
+
+
+At the end of a successful use, your project directory should look like this:
+![Image 1](/public/directory.png)
+
+Your files will look something like this (but probably much larger):
+
+![Image 2](/public/cleanedInfo.png)
+
+![Image 3](/public/rawInfo.png)
+
+![Image 4](/public/logs.png)
