@@ -1,0 +1,48 @@
+Starting Value : 0
+Beginning Scrape.
+[0] : Scraped - Supercharge Your Core Business with Mitacs Acceleration Program
+[0] : Extracted Information - Supercharge Your Core Business with Mitacs Acceleration Program
+[1] : Scraped - Financial support for technology innovation through NRC IRAP - National Research Council Canada
+[1] : Extracted Information - Financial support for technology innovation through NRC IRAP - National Research Council Canada
+[2] : Scraped - Challenge Stream for innovators
+[2] : Extracted Information - Challenge Stream for innovators
+[3] : Scraped - Grand Challenges Canada - Bold Ideas with Big Impact®
+[3] : Extracted Information - Grand Challenges Canada - Bold Ideas with Big Impact®
+[4] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[4] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[5] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[5] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[6] : Scraped - Voucher Program - Alberta Innovates
+[6] : Extracted Information - Voucher Program - Alberta Innovates
+[7] : Scraped - Micro Voucher Program - Alberta Innovates
+[7] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[8] : Scraped - Product Demonstration Program - Alberta Innovates
+[8] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[9] : Scraped - Funding that helps your company grow into global markets
+[9] : Extracted Information - Funding that helps your company grow into global markets
+[10] : Scraped - LearnSphere | Commercialization
+[10] : Extracted Information - LearnSphere | Commercialization
+[11] : Scraped - CED | Business scale-up and productivity
+[11] : Extracted Information - CED | Business scale-up and productivity
+[12] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[12] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[13] : Scraped - Ignite | Innovate BC
+[13] : Extracted Information - Ignite | Innovate BC
+[14] : Scraped - CanExport Innovation
+[14] : Extracted Information - CanExport Innovation
+[15] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[15] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[16] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[16] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[17] : Scraped - Starter Company Plus | ontario.ca
+[17] : Extracted Information - Starter Company Plus | ontario.ca
+[18] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[18] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[19] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[19] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[20] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[20] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[21] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[21] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[22] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[22] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada

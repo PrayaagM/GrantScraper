@@ -1,0 +1,268 @@
+Starting Value : 21
+Beginning Scrape.
+[21] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[21] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[22] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[22] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[23] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[23] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[24] : Scraped - Voucher Program - Alberta Innovates
+[24] : Extracted Information - Voucher Program - Alberta Innovates
+[25] : Scraped - Micro Voucher Program - Alberta Innovates
+[25] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[26] : Scraped - Product Demonstration Program - Alberta Innovates
+[26] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[27] : Scraped - Funding that helps your company grow into global markets
+[27] : Extracted Information - Funding that helps your company grow into global markets
+[28] : Scraped - LearnSphere | Commercialization
+[28] : Extracted Information - LearnSphere | Commercialization
+[29] : Scraped - CED | Business scale-up and productivity
+[29] : Extracted Information - CED | Business scale-up and productivity
+[30] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[30] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[31] : Scraped - Ignite | Innovate BC
+[31] : Extracted Information - Ignite | Innovate BC
+[32] : Scraped - CanExport Innovation
+[32] : Extracted Information - CanExport Innovation
+[33] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[33] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[34] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[34] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[35] : Scraped - Starter Company Plus | ontario.ca
+[35] : Extracted Information - Starter Company Plus | ontario.ca
+[36] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[36] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[37] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[37] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[38] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[38] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[39] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[39] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[40] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[40] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[41] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[41] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[42] : Scraped - Voucher Program - Alberta Innovates
+[42] : Extracted Information - Voucher Program - Alberta Innovates
+[43] : Scraped - Micro Voucher Program - Alberta Innovates
+[43] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[44] : Scraped - Product Demonstration Program - Alberta Innovates
+[44] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[45] : Scraped - Funding that helps your company grow into global markets
+[45] : Extracted Information - Funding that helps your company grow into global markets
+[46] : Scraped - LearnSphere | Commercialization
+[46] : Extracted Information - LearnSphere | Commercialization
+[47] : Scraped - CED | Business scale-up and productivity
+[47] : Extracted Information - CED | Business scale-up and productivity
+[48] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[48] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[49] : Scraped - Ignite | Innovate BC
+[49] : Extracted Information - Ignite | Innovate BC
+[50] : Scraped - CanExport Innovation
+[50] : Extracted Information - CanExport Innovation
+[51] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[51] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[52] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[52] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[53] : Scraped - Starter Company Plus | ontario.ca
+[53] : Extracted Information - Starter Company Plus | ontario.ca
+[54] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[54] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[55] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[55] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[56] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[56] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[57] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[57] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[58] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[58] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[59] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[59] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[60] : Scraped - Voucher Program - Alberta Innovates
+[60] : Extracted Information - Voucher Program - Alberta Innovates
+[61] : Scraped - Micro Voucher Program - Alberta Innovates
+[61] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[62] : Scraped - Product Demonstration Program - Alberta Innovates
+[62] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[63] : Scraped - Funding that helps your company grow into global markets
+[63] : Extracted Information - Funding that helps your company grow into global markets
+[64] : Scraped - LearnSphere | Commercialization
+[64] : Extracted Information - LearnSphere | Commercialization
+[65] : Scraped - CED | Business scale-up and productivity
+[65] : Extracted Information - CED | Business scale-up and productivity
+[66] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[66] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[67] : Scraped - Ignite | Innovate BC
+[67] : Extracted Information - Ignite | Innovate BC
+[68] : Scraped - CanExport Innovation
+[68] : Extracted Information - CanExport Innovation
+[69] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[69] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[70] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[70] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[71] : Scraped - Starter Company Plus | ontario.ca
+[71] : Extracted Information - Starter Company Plus | ontario.ca
+[72] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[72] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[73] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[73] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[74] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[74] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[75] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[75] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[76] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[76] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[77] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[77] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[78] : Scraped - Voucher Program - Alberta Innovates
+[78] : Extracted Information - Voucher Program - Alberta Innovates
+[79] : Scraped - Micro Voucher Program - Alberta Innovates
+[79] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[80] : Scraped - Product Demonstration Program - Alberta Innovates
+[80] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[81] : Scraped - Funding that helps your company grow into global markets
+[81] : Extracted Information - Funding that helps your company grow into global markets
+[82] : Scraped - LearnSphere | Commercialization
+[82] : Extracted Information - LearnSphere | Commercialization
+[83] : Scraped - CED | Business scale-up and productivity
+[83] : Extracted Information - CED | Business scale-up and productivity
+[84] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[84] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[85] : Scraped - Ignite | Innovate BC
+[85] : Extracted Information - Ignite | Innovate BC
+[86] : Scraped - CanExport Innovation
+[86] : Extracted Information - CanExport Innovation
+[87] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[87] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[88] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[88] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[89] : Scraped - Starter Company Plus | ontario.ca
+[89] : Extracted Information - Starter Company Plus | ontario.ca
+[90] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[90] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[91] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[91] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[92] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[92] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[93] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[93] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[94] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[94] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[95] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[95] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[96] : Scraped - Voucher Program - Alberta Innovates
+[96] : Extracted Information - Voucher Program - Alberta Innovates
+[97] : Scraped - Micro Voucher Program - Alberta Innovates
+[97] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[98] : Scraped - Product Demonstration Program - Alberta Innovates
+[98] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[99] : Scraped - Funding that helps your company grow into global markets
+[99] : Extracted Information - Funding that helps your company grow into global markets
+[100] : Scraped - LearnSphere | Commercialization
+[100] : Extracted Information - LearnSphere | Commercialization
+[101] : Scraped - CED | Business scale-up and productivity
+[101] : Extracted Information - CED | Business scale-up and productivity
+[102] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[102] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[103] : Scraped - Ignite | Innovate BC
+[103] : Extracted Information - Ignite | Innovate BC
+[104] : Scraped - CanExport Innovation
+[104] : Extracted Information - CanExport Innovation
+[105] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[105] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[106] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[106] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[107] : Scraped - Starter Company Plus | ontario.ca
+[107] : Extracted Information - Starter Company Plus | ontario.ca
+[108] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[108] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[109] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[109] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[110] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[110] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[111] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[111] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[112] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[112] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[113] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[113] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[114] : Scraped - Voucher Program - Alberta Innovates
+[114] : Extracted Information - Voucher Program - Alberta Innovates
+[115] : Scraped - Micro Voucher Program - Alberta Innovates
+[115] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[116] : Scraped - Product Demonstration Program - Alberta Innovates
+[116] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[117] : Scraped - Funding that helps your company grow into global markets
+[117] : Extracted Information - Funding that helps your company grow into global markets
+[118] : Scraped - LearnSphere | Commercialization
+[118] : Extracted Information - LearnSphere | Commercialization
+[119] : Scraped - CED | Business scale-up and productivity
+[119] : Extracted Information - CED | Business scale-up and productivity
+[120] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[120] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[121] : Scraped - Ignite | Innovate BC
+[121] : Extracted Information - Ignite | Innovate BC
+[122] : Scraped - CanExport Innovation
+[122] : Extracted Information - CanExport Innovation
+[123] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[123] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[124] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[124] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[125] : Scraped - Starter Company Plus | ontario.ca
+[125] : Extracted Information - Starter Company Plus | ontario.ca
+[126] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[126] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[127] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[127] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[128] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[128] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[129] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[129] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[130] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[130] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[131] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[131] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[132] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[132] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[133] : Scraped - Micro Voucher Program - Alberta Innovates
+[133] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[134] : Scraped - Product Demonstration Program - Alberta Innovates
+[134] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[135] : Scraped - Funding that helps your company grow into global markets
+[135] : Extracted Information - Funding that helps your company grow into global markets
+[136] : Scraped - LearnSphere | Commercialization
+[136] : Extracted Information - LearnSphere | Commercialization
+[137] : Scraped - CED | Business scale-up and productivity
+[137] : Extracted Information - CED | Business scale-up and productivity
+[138] : Scraped - Alberta Export Expansion Program | Alberta.ca
+[138] : Extracted Information - Alberta Export Expansion Program | Alberta.ca
+[139] : Scraped - Ignite | Innovate BC
+[139] : Extracted Information - Ignite | Innovate BC
+[140] : Scraped - CanExport Innovation
+[140] : Extracted Information - CanExport Innovation
+[141] : Scraped - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[141] : Extracted Information - Innovation for Defence Excellence and Security (IDEaS) - Canada.ca
+[142] : Scraped - Canada-Alberta Job Grant | Alberta.ca
+[142] : Extracted Information - Canada-Alberta Job Grant | Alberta.ca
+[143] : Scraped - Starter Company Plus | ontario.ca
+[143] : Extracted Information - Starter Company Plus | ontario.ca
+[144] : Scraped - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[144] : Extracted Information - NON-REFUNDABLE CONTRIBUTION - SOCCA
+[145] : Scraped - Grant for Nunavut Employers | Government of Nunavut
+[145] : Extracted Information - Grant for Nunavut Employers | Government of Nunavut
+[146] : Scraped - First Peoples Economic Growth Fund | Skills Development Program
+[146] : Extracted Information - First Peoples Economic Growth Fund | Skills Development Program
+[147] : Scraped - First Peoples Economic Growth Fund | Business Plan Assistance
+[147] : Extracted Information - First Peoples Economic Growth Fund | Business Plan Assistance
+[148] : Scraped - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[148] : Extracted Information - Start-Up and Scale-Up ~ Sustainable Development Technology Canada
+[149] : Scraped - Regional Economic Growth through Innovation - Canada.ca
+[149] : Extracted Information - Regional Economic Growth through Innovation - Canada.ca
+[150] : Scraped - Voucher Program - Alberta Innovates
+[150] : Extracted Information - Voucher Program - Alberta Innovates
+[151] : Scraped - Micro Voucher Program - Alberta Innovates
+[151] : Extracted Information - Micro Voucher Program - Alberta Innovates
+[152] : Scraped - Product Demonstration Program - Alberta Innovates
+[152] : Extracted Information - Product Demonstration Program - Alberta Innovates
+[153] : Scraped - Funding that helps your company grow into global markets
+[153] : Extracted Information - Funding that helps your company grow into global markets

@@ -1,4 +1,4 @@
-import { By, Builder } from "selenium-webdriver";
+import { By, Builder, until } from "selenium-webdriver";
 import "chromedriver";
 import fs from "fs";
 import openaiTokenCounter from "openai-gpt-token-counter";
@@ -28,6 +28,20 @@ const checkPopup = async (driver) => {
 		await logger.log("Popup averted!");
 	}
 };
+
+// Checks for captchas and logs them to be dealt with later
+const detectReCaptcha = async (driver, i, link, grantTitle) => {
+    try {
+        // Wait until the iframe containing reCAPTCHA is present
+        let recaptchaFrame = await driver.wait(until.elementLocated(By.css('iframe[src*="recaptcha"]')), 5000);
+
+        if (recaptchaFrame) {
+					await logger.log(`[${i}] : reCAPTCHA detected on the page. - ${grantTitle} - ${link}`);
+        }
+    } catch (err) {
+        console.log('couldnt find reCAPTCHA frame:', err);
+    }
+}
 
 const scrape = async () => {
 
@@ -63,6 +77,8 @@ const scrape = async () => {
 		let expandButtons = await driver.findElements(By.css(`div[data-targetid='dov-Funding-${i}']`));
 		
 		if (expandButtons.length != 0) {
+
+			let closed = false;
 			
 			await checkPopup(driver);
 			await expandButtons[0].click();
@@ -75,12 +91,23 @@ const scrape = async () => {
 
 			const grantURL = await currentGrantButton.getAttribute("href");
 
+			// Define the specific src value you are looking for
+			const imageUrl = "https://ised-isde.canada.ca/site/innovation-canada/sites/default/files/img/Icon-Design-Cubes_status_red.png";
+
+			// Wait until the img element with the specific src is present
+			let imageElement = await driver.findElements(By.css(`img[src="${imageUrl}"]`));
+
+			if (imageElement[0]) {
+					closed = true;
+			}
+
 			let driver2 = await new Builder().forBrowser("chrome").build();
 			await driver2.get(grantURL);
 
 			const grantTitle = await driver2.getTitle();
 			const htmlTag = await driver2.findElement(By.tagName("html"));
 			const grantInfo = (await grantDiv.getText()) + (await htmlTag.getText());
+			await detectReCaptcha(driver2, i, grantURL, grantTitle);
 			console.log(grantInfo);
 
 			await logger.log(`[${i}] : Scraped - ${grantTitle}`);
@@ -107,6 +134,10 @@ const scrape = async () => {
 				console.log(extractedGrantInfo);
 				++i;
 				continue;
+			}
+
+			if (closed) {
+				extractedGrantInfo["Deadline"] = "Closed";
 			}
 
 			await logger.log(`[${i}] : Extracted Information - ${grantTitle}`);

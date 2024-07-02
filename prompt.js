@@ -1,31 +1,31 @@
 
-const prompt = `I would like you to extract information from text that I will provide to you. The extracted information should be outputted in parseable JSON format.
-  The outputted JSON object should look like the following:
+// const prompt = `I would like you to extract information from text that I will provide to you. The extracted information should be outputted in parseable JSON format.
+//   The outputted JSON object should look like the following:
     
-  {
-    Name : "CanExport SME", Amount : 15000, Deadline : "2024-10-03", Summary : "The CanExport SMEs funding program provides Canadian government grants to support Canadian businesses seeking to develop new export opportunities and markets, particularly high-growth priority markets and sectors, by covering a portion of eligible sales and marketing activities.", Description : "Supports global expansion projects including participation in trade shows and government-led trade missions
-    Up to 50% to a max $50,000 in grants", Eligible_Applicants : "Incorporated Canadian for-profit businesses <500 full-time payroll employees and between $100,000-$100M in Canadian annual revenue.", Eligible_Activities : "Virtual trade events, website SEO, adaptation of marketing tools, IP/product certification, and market research.", Eligible_Criteria : "Follow these steps to apply for CanExport Innovation:
-    1. Familiarize yourself with the program details by reading our Applicant’s Guide.
-    2. Create an account on our online portal.
-    3. Note: Not compatible with Internet Explorer.
-    4. Once you are signed in, enter your information under My Profile and select Update.
-    5. On the CanExport Innovation landing page, select Apply Now!", 
-    Eligible_Employees : 2, Eligible_Profitable : "Yes", Eligible_Region : "Ontario", Eligible_Industries : "technology"
-  }
+//   {
+//     Name : "CanExport SME", Amount : 15000, Deadline : "2024-10-03", Summary : "The CanExport SMEs funding program provides Canadian government grants to support Canadian businesses seeking to develop new export opportunities and markets, particularly high-growth priority markets and sectors, by covering a portion of eligible sales and marketing activities.", Description : "Supports global expansion projects including participation in trade shows and government-led trade missions
+//     Up to 50% to a max $50,000 in grants", Eligible_Applicants : "Incorporated Canadian for-profit businesses <500 full-time payroll employees and between $100,000-$100M in Canadian annual revenue.", Eligible_Activities : "Virtual trade events, website SEO, adaptation of marketing tools, IP/product certification, and market research.", Eligible_Criteria : "Follow these steps to apply for CanExport Innovation:
+//     1. Familiarize yourself with the program details by reading our Applicant’s Guide.
+//     2. Create an account on our online portal.
+//     3. Note: Not compatible with Internet Explorer.
+//     4. Once you are signed in, enter your information under My Profile and select Update.
+//     5. On the CanExport Innovation landing page, select Apply Now!", 
+//     Eligible_Employees : 2, Eligible_Profitable : "Yes", Eligible_Region : "Ontario", Eligible_Industries : "technology"
+//   }
 
-    where Name denotes the name of the grant, Amount denotes the maximum amount of funding receivable and should be a numerical field, Deadline denotes when grant
-    applications are due, Summary denotes a summary of the grant, Description denotes a description of the grant, Eligible_Applicants
-    denotes information about who is eligible to apply for the grant, Eligible_Activities denotes information about which expenses
-    or activities make a company eligible to apply for the grant, Eligible_Criteria denotes information about the criteria that
-    a company must meet in order to be eligible for the grant, Eligible_Employees denotes the minimum number of employees the 
-    company must have in order to be eligible for the grant, Eligible_Profitable is a "Yes" if the grant requires that applicants are profitable and "No" otherwise,
-    Eligible_Region denotes the province in Canada where the grant is applicable, and Eligible_Industries denotes which industries out of the 
-    following list are applicable for this grant: [agriculture,technology,healthcare,manufacturing,energy,finance,education,retail,travel,automotive,entertainment,corporate services,media,transportation,environment,all].
-    I have given examples of each field in the above JSON object. If you are unable to find the information for any of the fields, kindly write 'Coming Soon.' for that field.
+//     where Name denotes the name of the grant, Amount denotes the maximum amount of funding receivable and should be a numerical field, Deadline denotes when grant
+//     applications are due, Summary denotes a summary of the grant, Description denotes a description of the grant, Eligible_Applicants
+//     denotes information about who is eligible to apply for the grant, Eligible_Activities denotes information about which expenses
+//     or activities make a company eligible to apply for the grant, Eligible_Criteria denotes information about the criteria that
+//     a company must meet in order to be eligible for the grant, Eligible_Employees denotes the minimum number of employees the 
+//     company must have in order to be eligible for the grant, Eligible_Profitable is a "Yes" if the grant requires that applicants are profitable and "No" otherwise,
+//     Eligible_Region denotes the province in Canada where the grant is applicable, and Eligible_Industries denotes which industries out of the 
+//     following list are applicable for this grant: [agriculture,technology,healthcare,manufacturing,energy,finance,education,retail,travel,automotive,entertainment,corporate services,media,transportation,environment,all].
+//     I have given examples of each field in the above JSON object. If you are unable to find the information for any of the fields, kindly write 'Coming Soon.' for that field.
     
 
-    I will now provide the text in the next prompt, does this sound okay? Please only provide a JSON response. Provide no response otherwise.
-  `;
+//     I will now provide the text in the next prompt, does this sound okay? Please only provide a JSON response. Provide no response otherwise.
+//   `;
 
 const model = "gpt-3.5-turbo-1106";
 
@@ -33,7 +33,7 @@ const user_prompt = `I want you to extract the following information from text t
 
 Name: Extract the Name of the grant or loan in 7 words or less.
 Amount: A numerical field representing the maximum amount of funding receivable from the grant or loan. Write 'Coming Soon' if you are unsure.
-Deadline: A string field representing when the deadline to apply for the grant or loan is. An example of the Deadline field is this: "2024-10-23". Format as "YEAR-MO-DA". By default, write '2024-03-31'.
+Deadline: A string field representing when the deadline to apply for the grant or loan is. An example of the Deadline field is this: "2024-10-23". Format as "YEAR-MO-DA". By default, write 'Continuous'.
 Eligible_Region: Write the region in which the grant or loan is applicable. Write "Canada" by default. Write "Canada" if the grant or loan is applicable everywhere in Canada.
 Eligible_Profitable: Write "Yes" if the grant or loan requires the applicant's company is profitable. Write "No" otherwise. Write 'No' if you are unsure.
 Eligible_Revenue: This is a numerical field that represents how much revenue the applicant's company must have in order to be eligible for for the grant or loan. By default, write 100000

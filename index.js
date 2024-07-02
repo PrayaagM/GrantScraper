@@ -25,7 +25,7 @@ const runPromptOnData = async (data) => {
 	}
 };
 
-const mainUrl = "https://innovation.ised-isde.canada.ca/s/group-groupe?language=en_CA&token=a0BOG000001cip32AA";
+const mainUrl = "https://innovation.ised-isde.canada.ca/s/group-groupe?language=en_CA&token=a0BOG0000046xXm2AI";
 
 export default runPromptOnData;
 export { mainUrl };
