@@ -1,6 +1,8 @@
 # GrantScraper
 Scrapes BBF (Business Benefits Finder) for all grants and outputs them in valid JSON format.
 
+NOTE: This repo contains the first draft of Upgraded's Grant Scraper. The full data-pipeline is proprietary and belongs to Upgraded. However, the logic here encapsulates most of the exciting parts of this project!
+
 ## Getting Started
 
 Clone the repository. Run `npm install`.
